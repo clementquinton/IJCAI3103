@@ -22,7 +22,7 @@ Install these dependencies based on compilation error messages. In particular, r
 sudo apt-get install libboost-all-dev libgmp-dev libz-dev
 ```
 
-Once compiled, move the d4 executable file to the [prog](/prog) repository.
+Once compiled, move the d4 executable file to the [prog](./prog) repository.
 
 ### Setup
 
