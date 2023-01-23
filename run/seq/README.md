@@ -20,11 +20,11 @@ Install these dependencies based on compilation error messages. In particular, r
 sudo apt-get install libboost-all-dev libgmp-dev libz-dev
 ```
 
-Once compiled, move the d4 executable file to the [prog](/prog) repository.
+Once compiled, move the d4 executable file to the [prog](run/seq/prog) repository.
 
 ## Usage
 
-The CNF encoding the models to be tested are located in the [in](/in) repository.
+The CNF encoding the models to be tested are located in the [in](run/seq/in) repository.
 
 To compute the top k solutions for each model, run 
 
